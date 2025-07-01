@@ -77,19 +77,14 @@ A **passphrase** is a group of words or a sentence:
 Below are screenshots of password test results taken from online tools.
 
 ### 1. Password123 – Weak Password
-![Password123 Screenshot](screenshots/password123.png)
 
 ### 2. G!tH#b@2025 – Strong Password
-![G!tH#b@2025 Screenshot](screenshots/github2025.png)
 
 ### 3. 9xZ$7hAq!L#8r – Very Strong Password
-![9xZ$7hAq!L#8r Screenshot](screenshots/strong_random.png)
 
 ### 4. thisIsALongPassphrase – Passphrase Strength
-![thisIsALongPassphrase Screenshot](screenshots/passphrase.png)
 
 ### 5. qwerty123 – Very Weak Password
-![qwerty123 Screenshot](screenshots/qwerty.png)
 
 ## 🧰 Tools I Used
 
