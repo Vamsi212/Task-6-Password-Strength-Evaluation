@@ -86,17 +86,3 @@ A **passphrase** is a group of words or a sentence:
 - `screenshots/` – Images of test results (if any)
 
 ---
-
-## 📤 Submission
-
-- **GitHub Repo Link:** [Insert your GitHub repo link here]
-- **Submit your task here:**  
-  🔗 [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
----
-
-## 🙋‍♂️ Author Info
-
-- **Name:** [Your Name]  
-- **Date:** July 1, 2025  
-- **Internship:** Cyber Security Virtual Internship  
