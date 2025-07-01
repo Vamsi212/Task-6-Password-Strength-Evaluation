@@ -76,13 +76,13 @@ A **passphrase** is a group of words or a sentence:
 
 - 🔗 [https://www.passwordmeter.com/](https://www.passwordmeter.com/)
 - 🔗 [https://howsecureismypassword.net/](https://howsecureismypassword.net/)
+- 🔗 [https://bitwarden.com/password-strength/](https://bitwarden.com/password-strength/)
 
 ---
 
 ## 📁 Files in This Repository
 
 - `README.md` – This report
-- `password_results.txt` – Notes from testing (optional)
-- `screenshots/` – Images of test results (if any)
+- `screenshots/` – Images of test results
 
 ---
